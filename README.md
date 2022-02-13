@@ -3,13 +3,11 @@
 
   "magisk": {
 
-    "version": "Telegram : @tecnicalishaq😎💪",
+    "version": Magisk 23.0
 
     "versionCode": "23",
 
     "link": "https://cdn.jsdelivr.net/gh/topjohnwu/magisk-files@23.0/app-release.apk",
-
-    "note": "https://raw.githubusercontent.com/tecnical-ishaq/tecnical-ishaq/main/23000.md"
 
   },
 
